@@ -1,8 +1,8 @@
-#python main 函数
-##在当前module里的main
+# python main 函数
+## 在当前module里的main
 1. Python中没有不会像Java一样去找main(),会直接自上而下执行程序
 ~~~
-#hello.py
+# hello.py
 print("first")
  
 def sayHello():
@@ -45,7 +45,7 @@ hellofrom hello.sayhello()
 
 [知乎示例](https://www.zhihu.com/question/49136398)
 ~~~
-#const.py
+# const.py
 PI = 3.14
 
 def main():
@@ -53,7 +53,7 @@ print "PI:", PI
 
 main()
 
-#area.py
+# area.py
 from const import PI
 
 def calc_round_area(radius):

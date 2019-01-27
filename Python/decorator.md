@@ -1,7 +1,6 @@
-#decorator
+# decorator
 [廖雪峰教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014318435599930270c0381a3b44db991cd6d858064ac0000)
 > 装饰器本质上就是一个返回函数的高阶函数
-##
 ~~~
 def now():
      print('2015-3-25')
