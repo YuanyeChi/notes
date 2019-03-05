@@ -1,3 +1,9 @@
+---
+layout: post
+title: 《Linux Shell 脚本攻略》
+category: Linux Shell
+tags: Linux Shell
+---
 # Chapter 1 小试牛刀
 ## 来历
 一开始Unix只支持一种交互式shell - sh
