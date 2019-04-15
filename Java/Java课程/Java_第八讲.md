@@ -93,7 +93,7 @@ class Singleton {
 		else 
 }			System.out.println("s1 is not s2");
 ```
-- sequence
+
 
 #继承
 > 满足is-a的关系,子类和父类的关系(extends)
