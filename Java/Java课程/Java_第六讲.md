@@ -46,7 +46,7 @@
 
 - 继承和多态
 3. abstract 宣布该类不能被实例化(declares that the class cannot be instantiated)
-4. final 宣布该类不能有子类 (cannot be subclassed)
+4. final 宣布该类不能有子类 (cannot be subclassed),定义的东西非常的核心，不能被改变。
 
 ### package的概念(对应于文件系统src下的路径)
 > 现在集成化的开发环境中没有那么重要了
